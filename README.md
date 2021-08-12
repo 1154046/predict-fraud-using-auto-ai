@@ -1,3 +1,7 @@
+IBM Watson Webinar - Hacklab Nigeria Hackathon
+
+Repo tailored for the participants of the Hacklab Hackathon. Please refer to the original repo to view full project information.
+
 # Fraud Prediction using Auto AI
 
 Automation and artificial intelligence (AI) are transforming businesses and will contribute to economic growth via contributions to productivity. They will also help address challenges in areas of healthcare, technology & other areas. At the same time, these technologies will transform the nature of work and the workplace itself. In this code pattern, we will focus on building state of the art systems for churning out predictions which can be used in different scenarios. We will try to predict fraudulent transactions which we know can reduce monetary loss and risk mitigation. The same approach can be used for predicting customer churn, demand and supply forecast and others. Building predictive models require time, effort and good knowledge of algorithms to create effective systems which can predict the outcome accurately. With that being said, IBM has introduced Auto AI which will automate all the tasks involved in building predictive models for different requirements. We will get to see how Auto AI can churn out great models quickly which will save time and effort and aid in faster decision making process.
@@ -61,7 +65,7 @@ Follow these steps to setup and run this code pattern using `Auto AI`.
 
 ## 1. Create an account with IBM Cloud
 
-Sign up for IBM [**Cloud**](https://console.bluemix.net/). By clicking on create a free account you will get 30 days trial account.
+Sign up for IBM [**Cloud**](https://ibm.biz/BdfeJc). By clicking on create a free account you will get 30 days trial account.
 
 ## 2. Create a new Watson Studio project
 
