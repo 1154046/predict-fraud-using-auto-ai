@@ -1,6 +1,6 @@
 IBM Watson Webinar - Hacklab Nigeria Hackathon
 
-Repo tailored for the participants of the Hacklab Hackathon. Please refer to the original repo to view full project information.
+Repo tailored for the participants of the Hacklab Hackathon.
 
 # Fraud Prediction using Auto AI
 
